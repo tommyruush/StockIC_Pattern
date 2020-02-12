@@ -1,0 +1,1 @@
+"# StockIC_Pattern" 
