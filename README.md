@@ -1,1 +1,1 @@
-"# StockIC_Pattern" 
+"# StockIC_Pattern" .... commit second time
